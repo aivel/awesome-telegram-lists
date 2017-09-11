@@ -1,6 +1,8 @@
 # Awesome Telegram Lists
 This document contains links to awesome telegram lists: lists of groups, channels, bots, etc.
 
+Check out [tgram.io](http://tgram.io) - searchable list of telegram groups organized by topics and languages, also available as telegram bot [@tgramio_bot](https://t.me/tgramio_bot)
+
 ## Groups and Channels
 * [goq/telegram-list](https://github.com/goq/telegram-list) [russian] - groups, channels, bots
 * [OpenVe/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram) [spanish] - groups
