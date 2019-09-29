@@ -28,3 +28,4 @@ Check out [tgram.io](http://tgram.io) - searchable list of telegram groups organ
 
 * [DanySpin97/TelegramThemes](https://github.com/DanySpin97/TelegramThemes) [english] - open source themes
 * [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) [english] - groups, channels, bots, bot libs
+* [botsup.me](https://botsup.me/) [english/russian] - catalogue of only active Telegram Bots
